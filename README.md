@@ -1,3 +1,3 @@
-# My completed solution for Hanukkah-of-Data Coding Challenges
+# My completed solutions for Hanukkah-of-Data Coding Challenges
 
-https://hanukkah.bluebird.sh/
+Link to page: https://hanukkah.bluebird.sh/
